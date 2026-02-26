@@ -1,0 +1,153 @@
+{
+  "espresso": {
+    "name": "Espresso",
+    "category": "coffee",
+    "price": 50,
+    "img": "https://raw.githubusercontent.com/filedzsly/cozy-cafe-linebot/dev/resources/espresso.png",
+    "detail": "Strong and rich espresso with bold flavor"
+  },
+  "americano": {
+    "name": "Americano",
+    "category": "coffee",
+    "price": 60,
+    "img": "https://raw.githubusercontent.com/filedzsly/cozy-cafe-linebot/dev/resources/americano.png",
+    "detail": "Smooth black coffee, easy to drink"
+  },
+  "latte": {
+    "name": "Latte",
+    "category": "coffee",
+    "price": 65,
+    "img": "https://raw.githubusercontent.com/filedzsly/cozy-cafe-linebot/dev/resources/latte.png",
+    "detail": "Espresso with fresh milk, smooth taste"
+  },
+  "cappuccino": {
+    "name": "Cappuccino",
+    "category": "coffee",
+    "price": 65,
+    "img": "https://raw.githubusercontent.com/filedzsly/cozy-cafe-linebot/dev/resources/cappuccino.png",
+    "detail": "Espresso with milk foam"
+  },
+  "mocha": {
+    "name": "Mocha",
+    "category": "coffee",
+    "price": 70,
+    "img": "https://raw.githubusercontent.com/filedzsly/cozy-cafe-linebot/dev/resources/mocha.png",
+    "detail": "Coffee mixed with chocolate"
+  },
+  "caramel_macchiato": {
+    "name": "Caramel Macchiato",
+    "category": "coffee",
+    "price": 75,
+    "img": "https://raw.githubusercontent.com/filedzsly/cozy-cafe-linebot/dev/resources/caramel_macchiato.png",
+    "detail": "Milk coffee with caramel sauce"
+  },
+
+  "coconut_americano": {
+    "name": "Coconut Americano",
+    "category": "signature",
+    "price": 80,
+    "img": "https://raw.githubusercontent.com/filedzsly/cozy-cafe-linebot/dev/resources/coconut_americano.png",
+    "detail": "Americano with coconut water"
+  },
+  "orange_coffee": {
+    "name": "Orange Coffee",
+    "category": "signature",
+    "price": 85,
+    "img": "https://raw.githubusercontent.com/filedzsly/cozy-cafe-linebot/dev/resources/orange_coffee.png",
+    "detail": "Coffee with orange juice"
+  },
+
+  "matcha_latte": {
+    "name": "Matcha Latte",
+    "category": "matcha",
+    "price": 75,
+    "img": "https://raw.githubusercontent.com/filedzsly/cozy-cafe-linebot/dev/resources/matcha_latte.png",
+    "detail": "Premium matcha with milk"
+  },
+  "matcha_milk": {
+    "name": "Matcha Milk",
+    "category": "matcha",
+    "price": 70,
+    "img": "https://raw.githubusercontent.com/filedzsly/cozy-cafe-linebot/dev/resources/matcha_milk.png",
+    "detail": "Matcha with milk"
+  },
+  "matcha_honey": {
+    "name": "Matcha Honey",
+    "category": "matcha",
+    "price": 75,
+    "img": "https://raw.githubusercontent.com/filedzsly/cozy-cafe-linebot/dev/resources/matcha_honey.png",
+    "detail": "Matcha with natural honey"
+  },
+  "matcha_americano": {
+    "name": "Matcha Americano",
+    "category": "matcha",
+    "price": 80,
+    "img": "https://raw.githubusercontent.com/filedzsly/cozy-cafe-linebot/dev/resources/matcha_americano.png",
+    "detail": "Matcha mixed with coffee"
+  },
+  "ceremonial_matcha": {
+    "name": "Ceremonial Matcha",
+    "category": "matcha",
+    "price": 95,
+    "img": "https://raw.githubusercontent.com/filedzsly/cozy-cafe-linebot/dev/resources/ceremonial_matcha.png",
+    "detail": "Premium ceremonial grade matcha"
+  },
+
+  "matcha_oreo": {
+    "name": "Matcha Oreo",
+    "category": "dessert",
+    "price": 95,
+    "img": "https://raw.githubusercontent.com/filedzsly/cozy-cafe-linebot/dev/resources/matcha_oreo.png",
+    "detail": "Blended matcha with Oreo"
+  },
+  "matcha_strawberry": {
+    "name": "Matcha Strawberry",
+    "category": "dessert",
+    "price": 95,
+    "img": "https://raw.githubusercontent.com/filedzsly/cozy-cafe-linebot/dev/resources/matcha_strawberry.png",
+    "detail": "Matcha with strawberry"
+  },
+  "matcha_cheesefoam": {
+    "name": "Matcha Cheese Foam",
+    "category": "dessert",
+    "price": 90,
+    "img": "https://raw.githubusercontent.com/filedzsly/cozy-cafe-linebot/dev/resources/matcha_cheese_foam.png",
+    "detail": "Matcha topped with cheese foam"
+  },
+
+  "cocoa": {
+    "name": "Cocoa",
+    "category": "other",
+    "price": 65,
+    "img": "https://raw.githubusercontent.com/filedzsly/cozy-cafe-linebot/dev/resources/cocoa.png",
+    "detail": "Rich cocoa drink"
+  },
+  "thai_tea": {
+    "name": "Thai Tea",
+    "category": "other",
+    "price": 60,
+    "img": "https://raw.githubusercontent.com/filedzsly/cozy-cafe-linebot/dev/resources/thai_tea.png",
+    "detail": "Classic Thai milk tea"
+  },
+  "pink_milk": {
+    "name": "Pink Milk",
+    "category": "other",
+    "price": 60,
+    "img": "https://raw.githubusercontent.com/filedzsly/cozy-cafe-linebot/dev/resources/pink_milk.png",
+    "detail": "Sweet pink milk"
+  },
+  "fruit_soda": {
+    "name": "Fruit Soda",
+    "category": "other",
+    "price": 55,
+    "img": "https://raw.githubusercontent.com/filedzsly/cozy-cafe-linebot/dev/resources/fruit_soda.png",
+    "detail": "Refreshing fruit soda"
+  },
+  "peach_lemon_tea": {
+    "name": "Peach Lemon Tea",
+    "category": "other",
+    "price": 60,
+    "img": "https://raw.githubusercontent.com/filedzsly/cozy-cafe-linebot/dev/resources/peach_lemon_tea.png",
+    "detail": "Tea with peach or lemon flavor"
+  }
+}
